@@ -1,7 +1,7 @@
 <!-- Hi there 👋-->
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AOskari&exclude_repo=Wuhan-Warrior&theme=algolia&langs_count=3)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AOskari&exclude_repo=Wuhan-Warrior&theme=algolia&langs_count=3)
 
 
 
